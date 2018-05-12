@@ -1,0 +1,42 @@
+_repo: It-Could-Be-Anything_26782
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Finlay, Virgil
+    alias: Finlay
+    birthdate: 1914
+    deathdate: 1971
+    gutenberg_agent_id: '26786'
+    url: http://www.gutenberg.org/2009/agents/26786
+    wikipedia: http://en.wikipedia.org/wiki/Virgil_Finlay
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Laumer, Keith
+    aliases:
+    - Laumer, John Keith
+    - Laumer, Kit
+    birthdate: 1925
+    deathdate: 1993
+    gutenberg_agent_id: '24817'
+    url: http://www.gutenberg.org/2009/agents/24817
+    wikipedia: http://en.wikipedia.org/wiki/Keith_Laumer
+description: Keith Laumer was well-known for his science fiction action and adventure
+  stories. ""It Could Be Anything"" shows us a different side of his talent. In this
+  original, thought-provoking story he explores and redefines the meaning of meaning.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26782'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: It Could Be Anything
+url: http://www.gutenberg.org/ebooks/26782
